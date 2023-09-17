@@ -58,6 +58,9 @@ h1 {
   flex-direction: column;
 
 }
+.searchBar button {
+  width: 50px;
+}
 .main p {
   color: white;
 }
