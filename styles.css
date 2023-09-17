@@ -55,11 +55,7 @@ h1 {
 .searchBar {
   margin-top: 20px;
   display: flex;
-  flex-direction: column;
-
-}
-.searchBar button {
-  width: 50px;
+  flex-direction: row;
 }
 .main p {
   color: white;
