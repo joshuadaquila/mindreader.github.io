@@ -55,7 +55,7 @@ h1 {
 .searchBar {
   margin-top: 20px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 
 }
 .main p {
